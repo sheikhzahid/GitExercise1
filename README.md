@@ -13,7 +13,10 @@
 ### rm -d (filename)
 ### git branch
 ### git merge
+### git push
+### git reset -HEAD^
 ### git checkout -b
 ### git stash (pop, apply, list, drop)
 ### git diff
 ### git cherrypick
+### git pull
